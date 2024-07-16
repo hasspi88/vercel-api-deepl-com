@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    {"source": "/(.*)", "destination": "https://deepl.vercel.app/$1"}
+    {"source": "/(.*)", "destination": "https://deeplx.vercel.app/translate"}
   ]
 }
